@@ -280,15 +280,19 @@
          <div className="fixed inset-0 z-50 flex  items-center justify-center bg-black/10 backdrop-blur-sm bg-image bg-cover ">
            <div className=" p-4 shadow-2xl rounded-2xl relative bg-white h-110 w-full max-w-2xl  border-none   text-white flex flex-col gap-3 items-center justify-center md:flex-row ">
              {/* Close Button */}
+
+
              <button
+               type="button"
                onClick={handleClose}
-               className="absolute top-4 right-4 text-gray-500 hover:text-black text-lg font-bold"
+               className="absolute top-3 right-3 z-30 text-gray-700 hover:text-black text-xl font-bold bg-white/90 hover:bg-white rounded-full w-9 h-9 flex items-center justify-center shadow-md cursor-pointer transition-all"
+               aria-label="Close modal"
              >
                ✕
              </button>
              <div className="w-full md:w-1/2 h-48 md:h-auto relative">
                <img
-                 src="/public/images/popup-img(1).png"
+                 src="/images/popup-img(1).png"
                  alt="Package Details"
                  className="w-full h-110 p-2 object-cover rounded-l-2xl hidden md:block "
                ></img>
@@ -298,11 +302,9 @@
                <h3 className="text-2xl  text-[#275297]">
                  Complete Your Request
                </h3>
-               
 
                {/* Selected Plan Summary Card */}
                <div className="w-80 bg-[#275297]   border border-slate-300 rounded-lg p-2 mb-4 text-center ">
-                 
                  <div className="flex justify-between text-center items-center pop-up">
                    <span className=" text-white text-base">
                      {selectedPlan.name}
@@ -381,9 +383,7 @@
                      disabled={isSending}
                      className="w-80 flex justify-center items-center h-10 py-2.5 rounded-lg bg-[#275297] text-white hover:bg-[#1b529b] transition disabled:opacity-50 shadow-xl "
                    >
-                     {isSending
-                       ? "Submitting..."
-                       : `Submit `}
+                     {isSending ? "Submitting..." : `Submit `}
                    </button>
                  </div>
                </form>
