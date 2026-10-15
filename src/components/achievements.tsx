@@ -21,12 +21,9 @@ function Achievements() {
                   <span>- Feb 2026- to Jun 2026</span>
                 </h4>
                 <p>
-                  Lead and supervise the recruitment team to ensure efficient
-                  delivery of recruitment assignments across client accounts.
-                </p>
-                <p>
-                  Develop, implement, and monitor comprehensive recruitment
-                  strategies to attract and retain top talent.
+                  To lead and manage the recruitment function, overseeing the
+                  sourcing, selection, and placement of top-tier talent for both
+                  in-house and client organizations
                 </p>
               </li>
             </div>
@@ -39,12 +36,9 @@ function Achievements() {
                   <span>- Feb 2026- to Jun 2026</span>
                 </h4>
                 <p>
-                  Collaborate with clients and internal stakeholders to
-                  understand staffing needs, timelines, and expectations.{" "}
-                </p>
-                <p>
-                  Oversee end-to-end recruitment processes, including job
-                  posting, sourcing, screening, interviewing, and onboarding.
+                  To ensure that all recruitment activities align with company
+                  goals, client expectations, and employment regulations while
+                  fostering a high-performing team environment
                 </p>
               </li>
             </div>
@@ -57,13 +51,10 @@ function Achievements() {
                   <span>- Feb 2026- to Jun 2026</span>
                 </h4>
                 <p>
-                  Lead the team to ensure an excellent candidate experience
-                  throughout the recruitment lifecycle
+                  To identify new business opportunities, build and maintain
+                  client relationships.
                 </p>
-                <p>
-                  Coach, mentor, and evaluate team members to improve
-                  performance and productivity.
-                </p>
+                <p>To drive revenue growth</p>
               </li>
             </div>
             <div className="timeline-item">
@@ -74,24 +65,14 @@ function Achievements() {
                   <br />
                   <span>- Mar 2025- to Jun 2025 (Remote)</span>
                 </h4>
-                <p>Design and update job descriptions </p>
                 <p>
-                  Provide shortlists of qualified candidates to hiring managers
+                  Develop and implement effective recruiting strategies to
+                  attract a diverse pool of qualifiedand capable talent for the
+                  organization.
                 </p>
-              </li>
-            </div>
-            <div className="timeline-item">
-              <li className="list-one">
-                <h4>
-                  {" "}
-                  Recruitment Head Maybrands Limited Nigeria
-                  {""}
-                  <br />
-                  <span>- Mar 2025- to Jun 2025 (Remote)</span>
-                </h4>
-                <p>Craft recruiting emails to attract passive candidates.</p>
                 <p>
-                  Screen incoming resumes and application forms as need arise.
+                  Collaborative with hiring managers to identify job
+                  requirements and draft detailed job descriptions.
                 </p>
               </li>
             </div>
@@ -105,8 +86,28 @@ function Achievements() {
                   <span>- Mar 2025- to Jun 2025 (Remote)</span>
                 </h4>
                 <p>
-                  Sourcing Candidates: Utilize job boards, social media, and
-                  professional networks to find qualified candidates{" "}
+                  Screen resumes and applications and conduct initial phone
+                  screenings to create a shortlist of qualified candidates.
+                </p>
+                <p>
+                  Schedule and coordinate interviews with hiring managers and other stakeholders.
+                </p>
+              </li>
+            </div>
+            <div className="timeline-item">
+              <li className="list-one">
+                <h4>
+                  {" "}
+                  Recruitment Head Maybrands Limited Nigeria
+                  {""}
+                  <br />
+                  <span>- Mar 2025- to Jun 2025 (Remote)</span>
+                </h4>
+                <p>
+                  Foster long-lastings relationships with past applicants and potential candidates for future job openings.
+                </p>
+                <p>
+                  Keep abreast of trends and innovative recruiting techniques to be competive in latest recruitment practices.
                 </p>
               </li>
             </div>
@@ -119,7 +120,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Sunshine Enterprise Consulting USA (Remote)
+                  Sunshine Enterprise Consulting . freelance
                   {""}
                   <br />
                   <span>- May 2024- to May 2026</span>
@@ -150,8 +151,9 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Northern Education Consults (Remote & Voluntarily)- Canada
+                  Northern Education Consults (Remote)- Canada
                   {""}
+                  <br />
                   <span>- Apr 2023- Apr 2024</span>
                 </h4>
                 <p>
@@ -172,7 +174,9 @@ function Achievements() {
                   Email students in transferring the required application fees
                   to the NEC once college matches are received
                 </p>
-                <p>Shortlisting & interview coordination</p>
+                <p>Maintain open and effective communication with NEC throughout
+                  the application process.
+                </p>
               </li>
             </div>
             <div className="timeline-item">
