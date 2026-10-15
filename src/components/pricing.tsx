@@ -280,8 +280,6 @@
          <div className="fixed inset-0 z-50 flex  items-center justify-center bg-black/10 backdrop-blur-sm bg-image bg-cover ">
            <div className=" p-4 shadow-2xl rounded-2xl relative bg-white h-110 w-full max-w-2xl  border-none   text-white flex flex-col gap-3 items-center justify-center md:flex-row ">
              {/* Close Button */}
-
-
              <button
                type="button"
                onClick={handleClose}

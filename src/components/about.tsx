@@ -39,6 +39,12 @@ function About() {
             className={`tab-btn ${activeTab === "skills" ? "active" : ""}`}
             onClick={() => setActiveTab("skills")}
           >
+            Skills
+          </button>
+          <button
+            className={`tab-btn ${activeTab === "education" ? "active" : ""}`}
+            onClick={() => setActiveTab("education")}
+          >
             My Focus
           </button>
 
@@ -54,7 +60,26 @@ function About() {
         {activeTab === "skills" && (
           <div className="tab-content active">
             <ul className="list-disc">
-              <h2 className="text-gray-700 font-bold ">
+              <h2 className="text-gray-700 text-xl font-bold ">I am skilled in:</h2>
+
+              <li className="text-[#979797] text-lg ">
+                Procient Knowledge on Microsoft suite
+              </li>
+              <li className="text-[#979797] text-lg">ATS</li>
+              <li className="text-[#979797] text-lg">
+                Ability to work independently and meet deadlines{" "}
+              </li>
+              <li className="text-[#979797] text-lg">
+                Excellent communication and interpersonal skills
+              </li>
+            </ul>
+          </div>
+        )}
+
+        {activeTab === "education" && (
+          <div className="tab-content active">
+            <ul className="list-disc">
+              <h2 className="text-gray-700 text-xl font-bold ">
                 I support businesses with:
               </h2>
 
@@ -91,12 +116,10 @@ function About() {
             <div className="experience-item">
               <h3>Manufactturing</h3>
 
-
               <p>production, Manufactturing & industrial operations</p>
             </div>
             <div className="experience-item">
               <h3>Security & Facilities</h3>
-
 
               <p>
                 Security services, facilities management & support operations

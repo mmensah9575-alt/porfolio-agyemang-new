@@ -1,4 +1,5 @@
 @import "tailwindcss";
+
 *{
   margin: 0;
   padding: 0;
@@ -7,6 +8,7 @@
 html{
   scroll-behavior: smooth;
 }
+
 
 body {
     width: 100%;
@@ -105,6 +107,33 @@ header.scrolled{
 
 
 }
+
+.download-cv-btn{
+  width: 170px;
+  height: 40px;
+  padding: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #275297;
+  font-family: " Quicksand",sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  margin-top: 20px;
+  border-radius: 20px;
+  transition: background-color 0.3s ease,
+              transform 0.3s ease;
+  
+}
+.download-cv-btn:hover{
+  background-color: #1e4074;
+  transform: translateY(-2px);
+}
+
+.ftcg{
+  margin-left:15px;
+}
+
 .hero-section{
   display: flex;
   background-color: rgb(240, 244, 245);
