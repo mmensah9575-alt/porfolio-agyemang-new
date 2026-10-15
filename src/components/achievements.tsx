@@ -16,7 +16,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  SBP-Africa-Recruitment Team-Lead
+                  SBP Africa Group Team-Lead{""}
                   <br />
                   <span>- Feb 2026- to Jun 2026</span>
                 </h4>
@@ -30,7 +30,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  SBP-Africa-Recruitment Team-Lead
+                  SBP Africa Group Team-Lead
                   {""}
                   <br />
                   <span>- Feb 2026- to Jun 2026</span>
@@ -45,7 +45,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  SBP-Africa-Recruitment Team-Lead
+                  SBP Africa Group Team-Lead
                   {""}
                   <br />
                   <span>- Feb 2026- to Jun 2026</span>
@@ -60,7 +60,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Recruitment Head Maybrands Limited Nigeria
+                  Maybrands Nigeria Ltd (Recruiter)
                   {""}
                   <br />
                   <span>- Mar 2025- to Jun 2025 (Remote)</span>
@@ -80,7 +80,7 @@ function Achievements() {
               <li className="list-one">
                 <h4>
                   {" "}
-                  Recruitment Head Maybrands Limited Nigeria
+                  Maybrands Nigeria Ltd (Recruiter)
                   {""}
                   <br />
                   <span>- Mar 2025- to Jun 2025 (Remote)</span>
@@ -90,7 +90,8 @@ function Achievements() {
                   screenings to create a shortlist of qualified candidates.
                 </p>
                 <p>
-                  Schedule and coordinate interviews with hiring managers and other stakeholders.
+                  Schedule and coordinate interviews with hiring managers and
+                  other stakeholders.
                 </p>
               </li>
             </div>
@@ -98,16 +99,18 @@ function Achievements() {
               <li className="list-one">
                 <h4>
                   {" "}
-                  Recruitment Head Maybrands Limited Nigeria
+                  Maybrands Nigeria Ltd (Recruiter)
                   {""}
                   <br />
                   <span>- Mar 2025- to Jun 2025 (Remote)</span>
                 </h4>
                 <p>
-                  Foster long-lastings relationships with past applicants and potential candidates for future job openings.
+                  Foster long-lastings relationships with past applicants and
+                  potential candidates for future job openings.
                 </p>
                 <p>
-                  Keep abreast of trends and innovative recruiting techniques to be competive in latest recruitment practices.
+                  Keep abreast of trends and innovative recruiting techniques to
+                  be competive in latest recruitment practices.
                 </p>
               </li>
             </div>
@@ -120,7 +123,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Sunshine Enterprise Consulting . freelance
+                  Sunshine Enterprise Consulting (USA)
                   {""}
                   <br />
                   <span>- May 2024- to May 2026</span>
@@ -135,7 +138,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Sunshine Enterprise Consulting USA (Remote)
+                  Sunshine Enterprise Consulting (USA)
                   {""}
                   <br />
                   <span>- May 2024- to May 2026 </span>
@@ -151,7 +154,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Northern Education Consults (Remote)- Canada
+                  Northern Education Consults  (Canada)
                   {""}
                   <br />
                   <span>- Apr 2023- Apr 2024</span>
@@ -166,15 +169,17 @@ function Achievements() {
               <li className="list-one">
                 <h4>
                   {" "}
-                  Northern Education Consults (Remote & Voluntarily)- Canada
+                  Northern Education Consults (Canada)
                   {""}
+                  <br />
                   <span> - Apr 2023- Apr 2024 </span>
                 </h4>
                 <p>
                   Email students in transferring the required application fees
                   to the NEC once college matches are received
                 </p>
-                <p>Maintain open and effective communication with NEC throughout
+                <p>
+                  Maintain open and effective communication with NEC throughout
                   the application process.
                 </p>
               </li>
@@ -182,7 +187,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Amandi Construction Ghana Limited {""}
+                  Amandi Limited (Ghana){""}
                   <br />
                   <span>- Apr 2022- Apr 2023</span>
                 </h4>
@@ -196,7 +201,7 @@ function Achievements() {
             <div className="timeline-item">
               <li className="list-one">
                 <h4>
-                  Perseus Mining (Ghana) Limited {""}
+                  Perseus Mining Limited (Ghana){""}
                   <br />
                   <span>- Sep 2018 - Sep 2019</span>
                 </h4>
